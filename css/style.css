@@ -1,0 +1,50 @@
+body {
+    background-color: gainsboro;
+}
+
+.section-title {
+   border: double;
+   border-radius: 20px;
+   margin-top: 20px;
+    
+}
+
+.section-title h1{
+    text-align: center;
+}
+
+.style-forms{
+    padding-top: 20px;
+    justify-content: center;
+    font-style: bold;
+}
+
+.style-forms label{
+    padding-left: 20px;
+    align-items: center;
+}
+.style-forms label h3 {
+    padding-left: 20px;
+
+}
+
+.section-title h2 {
+    text-align: center;
+}
+
+.deleteButton {
+    color: white;
+    font-weight: bold;
+    background-color: darkred;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+#names ul {
+    list-style-type: none;
+}
+
